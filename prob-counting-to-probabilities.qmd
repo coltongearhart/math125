@@ -1,0 +1,13 @@
+# Counting Our Way to Probabilities {.unnumbered}
+
+## Slides
+
+FILE: [counting-to-probabilities.pptx](https://github.com/coltongearhart/math125/blob/main/probability/counting-to-probabilitiess.pptx)
+
+<embed src="probability/counting-to-probabilities.pdf" type="application/pdf" width="100%" height="500px"></embed>
+
+## Guided Notes
+
+FILE: [counting-to-probabilities-STARTER.docx](https://github.com/coltongearhart/math125/blob/main/probability/counting-to-probabilities-STARTER.docx)
+
+<embed src="probability/counting-to-probabilities-COMPLETED.pdf" type="application/pdf" width="100%" height="1000px"></embed>

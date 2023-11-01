@@ -13,15 +13,30 @@ book:
 
     - part: chapter-finance.qmd
       chapters:
-        - main-basic-ideas.qmd
+        - finance-understanding-personal-finance.qmd
+        - finance-understanding-interest.qmd
+        - finance-saving-money.qmd
+        - finance-borrowing-money.qmd
+        - finance-review.qmd
 
     - part: chapter-prob.qmd
       chapters:
-        - main-basic-ideas.qmd
-    
+        - prob-intro-to-probability.qmd
+        - prob-counting-to-probabilities.qmd
+        - prob-using-counting-methods-to-find-probabilities.qmd
+        - prob-addition-and-multiplication-rules.qmd
+        - prob-expected-value.qmd
+        - prob-review.qmd
+
     - part: chapter-stats.qmd
       chapters:
-        - main-basic-ideas.qmd
+        - stats-collecting-data.qmd
+        - stats-displaying-data.qmd
+        - stats-describing-and-analyzing-data.qmd
+        - stats-normal-distribution.qmd
+        - stats-linear-regression.qmd
+        - stats-project.qmd
+        - stats-review.qmd
 
 format:
   html:

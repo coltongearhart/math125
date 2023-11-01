@@ -1,0 +1,13 @@
+# Understanding Interest {.unnumbered}
+
+## Slides
+
+FILE: [understanding-interest.pptx](https://github.com/coltongearhart/math125/blob/main/finance/understanding-interests.pptx)
+
+<embed src="finance/understanding-interest.pdf" type="application/pdf" width="100%" height="500px"></embed>
+
+## Guided Notes
+
+FILE: [understanding-interest-STARTER.docx](https://github.com/coltongearhart/math125/blob/main/finance/understanding-interest-STARTER.docx)
+
+<embed src="finance/understanding-interest-COMPLETED.pdf" type="application/pdf" width="100%" height="1000px"></embed>

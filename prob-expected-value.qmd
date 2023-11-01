@@ -1,0 +1,13 @@
+# Expected Value {.unnumbered}
+
+## Slides
+
+FILE: [expected-value.pptx](https://github.com/coltongearhart/math125/blob/main/probability/expected-values.pptx)
+
+<embed src="probability/expected-value.pdf" type="application/pdf" width="100%" height="500px"></embed>
+
+## Guided Notes
+
+FILE: [expected-value-STARTER.docx](https://github.com/coltongearhart/math125/blob/main/probability/expected-value-STARTER.docx)
+
+<embed src="probability/expected-value-COMPLETED.pdf" type="application/pdf" width="100%" height="1000px"></embed>

@@ -1,0 +1,23 @@
+# Data Analysis Project {.unnumbered}
+
+## Excel Lesson
+
+Before students work on the statistics project, they are lead through an in class Excel activity.
+
+FILES: [excel-lesson-STARTER.xlsx](https://github.com/coltongearhart/math125/blob/main/stats/excel-lesson.xlsx) and [excel-lesson-COMPLETED.xlsx](https://github.com/coltongearhart/math125/blob/main/stats/excel-lesson-COMPLETED.xlsx)
+
+## Project Instructions
+
+FILE: blank [data-analysis-project-instructions.docx](https://github.com/coltongearhart/math125/blob/main/stats/data-analysis-project-instructions.docx)
+
+<embed src="stats/data-analysis-project-instructions.pdf" type="application/pdf" width="100%" height="1000px"></embed>
+
+## STARTER Files
+
+FILES: [data-analysis-project-STARTER.xlsx](https://github.com/coltongearhart/math125/blob/main/stats/data-analysis-project-STARTER.xlsx) and [data-analysis-project-submission-template.pptx](https://github.com/coltongearhart/math125/blob/main/stats/formula-sheet..pptx)
+
+<embed src="stats/data-analysis-project-submission-template.pdf" type="application/pdf" width="100%" height="500px"></embed>
+
+## KEY
+
+Instructors can contact me for keys :)

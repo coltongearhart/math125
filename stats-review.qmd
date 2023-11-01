@@ -1,0 +1,17 @@
+# Review {.unnumbered}
+
+## Activity
+
+FILE: [stats-review.docx](https://github.com/coltongearhart/math125/blob/main/stats/stats-review.docx)
+
+<embed src="stats/stats-review.pdf" type="application/pdf" width="100%" height="1000px"></embed>
+
+## KEY
+
+<embed src="stats/stats-review-COMPLETED.pdf" type="application/pdf" width="100%" height="1000px"></embed>
+
+## Study Formula Sheet
+
+FILE: blank [stats-study-formula-sheet.docx](https://github.com/coltongearhart/math125/blob/main/stats/formula-sheet.docx)
+
+<embed src="stats/stats-study-formula-sheet-ANNOTATED.pdf" type="application/pdf" width="100%" height="1000px"></embed>

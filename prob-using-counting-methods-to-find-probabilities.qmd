@@ -1,0 +1,13 @@
+# Using Counting Methods to find Probabilities {.unnumbered}
+
+## Slides
+
+FILE: [using-counting-methods-to-find-probabilities.pptx](https://github.com/coltongearhart/math125/blob/main/probability/using-counting-methods-to-find-probabilitiess.pptx)
+
+<embed src="probability/using-counting-methods-to-find-probabilities.pdf" type="application/pdf" width="100%" height="500px"></embed>
+
+## Guided Notes
+
+FILE: [using-counting-methods-to-find-probabilities-STARTER.docx](https://github.com/coltongearhart/math125/blob/main/probability/using-counting-methods-to-find-probabilities-STARTER.docx)
+
+<embed src="probability/using-counting-methods-to-find-probabilities-COMPLETED.pdf" type="application/pdf" width="100%" height="1000px"></embed>

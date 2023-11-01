@@ -1,0 +1,13 @@
+# Borrowing Money {.unnumbered}
+
+## Slides
+
+FILE: [borrowing-money.pptx](https://github.com/coltongearhart/math125/blob/main/finance/borrowing-moneys.pptx)
+
+<embed src="finance/borrowing-money.pdf" type="application/pdf" width="100%" height="500px"></embed>
+
+## Guided Notes
+
+FILE: [borrowing-money-STARTER.docx](https://github.com/coltongearhart/math125/blob/main/finance/borrowing-money-STARTER.docx)
+
+<embed src="finance/borrowing-money-COMPLETED.pdf" type="application/pdf" width="100%" height="1000px"></embed>

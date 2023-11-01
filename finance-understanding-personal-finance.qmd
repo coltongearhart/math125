@@ -1,0 +1,13 @@
+# Understanding Personal Finance {.unnumbered}
+
+## Slides
+
+FILE: [understanding-personal-finance.pptx](https://github.com/coltongearhart/math125/blob/main/finance/understanding-personal-finances.pptx)
+
+<embed src="finance/understanding-personal-finance.pdf" type="application/pdf" width="100%" height="500px"></embed>
+
+## Guided Notes
+
+FILE: [understanding-personal-finance-STARTER.docx](https://github.com/coltongearhart/math125/blob/main/finance/understanding-personal-finance-STARTER.docx)
+
+<embed src="finance/understanding-personal-finance-COMPLETED.pdf" type="application/pdf" width="100%" height="1000px"></embed>

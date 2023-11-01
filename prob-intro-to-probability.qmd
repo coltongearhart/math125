@@ -1,0 +1,13 @@
+# Introduction to Probability {.unnumbered}
+
+## Slides
+
+FILE: [intro-to-probability.pptx](https://github.com/coltongearhart/math125/blob/main/probability/intro-to-probabilitys.pptx)
+
+<embed src="probability/intro-to-probability.pdf" type="application/pdf" width="100%" height="500px"></embed>
+
+## Guided Notes
+
+FILE: [intro-to-probability-STARTER.docx](https://github.com/coltongearhart/math125/blob/main/probability/intro-to-probability-STARTER.docx)
+
+<embed src="probability/intro-to-probability-COMPLETED.pdf" type="application/pdf" width="100%" height="1000px"></embed>

@@ -1,0 +1,16 @@
+# Normal Distribution {.unnumbered}
+
+## Slides
+
+FILE: [normal-distribution.pptx](https://github.com/coltongearhart/math125/blob/main/stats/normal-distributions.pptx)
+
+<embed src="stats/normal-distribution.pdf" type="application/pdf" width="100%" height="500px"></embed>
+
+## Guided Notes
+
+FILE: [normal-distribution-STARTER.docx](https://github.com/coltongearhart/math125/blob/main/stats/normal-distribution-STARTER.docx)
+
+<embed src="stats/normal-distribution-COMPLETED.pdf" type="application/pdf" width="100%" height="1000px"></embed>
+
+<embed src="stats/table-normal-distribution.pdf" type="application/pdf" width="100%" height="500px"></embed>
+

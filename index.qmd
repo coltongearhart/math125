@@ -2,7 +2,7 @@
 
 ## Overview
 
-- Below is the course overview and calendar.
+- Below is the course calendar. NOTE this calendar is for the FA-23 semester.
 
 - FILE: [math125-course-calendar-fa23.docx](https://github.com/coltongearhart/math125/blob/main/intro/math125-course-calendar-fa23.docx)
 

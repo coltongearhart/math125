@@ -1,0 +1,13 @@
+# Addition and Multiplication Rules {.unnumbered}
+
+## Slides
+
+FILE: [addition-and-multiplication-rules.pptx](https://github.com/coltongearhart/math125/blob/main/probability/addition-and-multiplication-ruless.pptx)
+
+<embed src="probability/addition-and-multiplication-rules.pdf" type="application/pdf" width="100%" height="500px"></embed>
+
+## Guided Notes
+
+FILE: [addition-and-multiplication-rules-STARTER.docx](https://github.com/coltongearhart/math125/blob/main/probability/addition-and-multiplication-rules-STARTER.docx)
+
+<embed src="probability/addition-and-multiplication-rules-COMPLETED.pdf" type="application/pdf" width="100%" height="1000px"></embed>
