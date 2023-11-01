@@ -1,0 +1,30 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "MATH 125 --<br>Quantitative Reasoning"
+  author: "Colton Gearhart"
+  date: "11-1-2023"
+  cover-image: quantitative-reasoning.png
+  chapters:
+    - index.qmd
+    - syllabus.qmd
+
+    - part: chapter-finance.qmd
+      chapters:
+        - main-basic-ideas.qmd
+
+    - part: chapter-prob.qmd
+      chapters:
+        - main-basic-ideas.qmd
+    
+    - part: chapter-stats.qmd
+      chapters:
+        - main-basic-ideas.qmd
+
+format:
+  html:
+    theme: flatly
+
+title-block-banner: true

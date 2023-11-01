@@ -1,0 +1,13 @@
+# Basic Ideas
+
+## Introduction to Statistics and Data Collection Methods
+
+<!-- FILE: [intro-to-stats-and-data-collection-methods.pptx](https://github.com/coltongearhart/dana320/blob/main/slides/intro-to-stats-and-data-collection-methods.pptx) -->
+
+<!-- <embed src="slides/intro-to-stats-and-data-collection-methods.pdf" type="application/pdf" width="100%" height="500px"></embed> -->
+
+## Data Classification
+
+<!-- FILE: [data-classification.pptx](https://github.com/coltongearhart/dana320/blob/main/slides/data-classification.pptx) -->
+
+<!-- <embed src="slides/data-classification.pdf" type="application/pdf" width="100%" height="500px"></embed> -->

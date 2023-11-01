@@ -1,0 +1,64 @@
+[
+  {
+    "objectID": "syllabus.html",
+    "href": "syllabus.html",
+    "title": "Syllabus",
+    "section": "",
+    "text": "FILE: math125-syllabus-fa23.docx",
+    "crumbs": [
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "main-basic-ideas.html#introduction-to-statistics-and-data-collection-methods",
+    "href": "main-basic-ideas.html#introduction-to-statistics-and-data-collection-methods",
+    "title": "1  Basic Ideas",
+    "section": "1.1 Introduction to Statistics and Data Collection Methods",
+    "text": "1.1 Introduction to Statistics and Data Collection Methods",
+    "crumbs": [
+      "Personal Finance",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Basic Ideas</span>"
+    ]
+  },
+  {
+    "objectID": "main-basic-ideas.html#data-classification",
+    "href": "main-basic-ideas.html#data-classification",
+    "title": "1  Basic Ideas",
+    "section": "1.2 Data Classification",
+    "text": "1.2 Data Classification",
+    "crumbs": [
+      "Personal Finance",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Basic Ideas</span>"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "MATH 125 –Quantitative Reasoning",
+    "section": "",
+    "text": "Overview",
+    "crumbs": [
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "index.html#overview-1",
+    "href": "index.html#overview-1",
+    "title": "MATH 125 –Quantitative Reasoning",
+    "section": "Overview",
+    "text": "Overview\n\nBelow is the course overview and calendar.\nFILE: math125-course-calendar-fa23.docx",
+    "crumbs": [
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "index.html#source",
+    "href": "index.html#source",
+    "title": "MATH 125 –Quantitative Reasoning",
+    "section": "Source",
+    "text": "Source\n\n\n\n\n\n\nQuarto blog publish details\n\n\n\nThis book was created using Quarto and published with Github Pages.\n\n\n\n\n\n\n\n\nGithub repository for code\n\n\n\nYou can find the code to reproduce this project at coltongearhart/math125.",
+    "crumbs": [
+      "Overview"
+    ]
+  }
+]
