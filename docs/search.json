@@ -459,5 +459,189 @@
       "Statistics",
       "Review"
     ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "MATH 125 –Quantitative Reasoning",
+    "section": "",
+    "text": "Overview",
+    "crumbs": [
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "index.html#overview-1",
+    "href": "index.html#overview-1",
+    "title": "MATH 125 –Quantitative Reasoning",
+    "section": "Overview",
+    "text": "Overview\n\nBelow is the course calendar. NOTE this calendar is for the FA-23 semester.\nFILE: math125-course-calendar-fa23.docx",
+    "crumbs": [
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "index.html#source",
+    "href": "index.html#source",
+    "title": "MATH 125 –Quantitative Reasoning",
+    "section": "Source",
+    "text": "Source\n\n\n\n\n\n\nQuarto blog publish details\n\n\n\nThis book was created using Quarto and published with Github Pages.\n\n\n\n\n\n\n\n\nGithub repository for code\n\n\n\nYou can find the code to reproduce this project at coltongearhart/math125.",
+    "crumbs": [
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "stats-normal-distribution.html#activity",
+    "href": "stats-normal-distribution.html#activity",
+    "title": "Normal Distribution",
+    "section": "Activity",
+    "text": "Activity\nFILE: normal-distributions.docx\nInstructors can contact me for keys :)",
+    "crumbs": [
+      "Statistics",
+      "Normal Distribution"
+    ]
+  },
+  {
+    "objectID": "finance-understanding-personal-finance.html#activity",
+    "href": "finance-understanding-personal-finance.html#activity",
+    "title": "Understanding Personal Finance",
+    "section": "Activity",
+    "text": "Activity\nFILE: exploring-the-cost-of-living.docx\nInstructors can contact me for keys :)",
+    "crumbs": [
+      "Personal Finance",
+      "Understanding Personal Finance"
+    ]
+  },
+  {
+    "objectID": "finance-understanding-interest.html#activity",
+    "href": "finance-understanding-interest.html#activity",
+    "title": "Understanding Interest",
+    "section": "Activity",
+    "text": "Activity\nFILE: simple-and-compound-interest.docx\nInstructors can contact me for keys :)",
+    "crumbs": [
+      "Personal Finance",
+      "Understanding Interest"
+    ]
+  },
+  {
+    "objectID": "finance-saving-money.html#activity",
+    "href": "finance-saving-money.html#activity",
+    "title": "Saving Money",
+    "section": "Activity",
+    "text": "Activity\nFILE: comparing-investment-options.docx\nInstructors can contact me for keys :)",
+    "crumbs": [
+      "Personal Finance",
+      "Saving Money"
+    ]
+  },
+  {
+    "objectID": "finance-borrowing-money.html#activities",
+    "href": "finance-borrowing-money.html#activities",
+    "title": "Borrowing Money",
+    "section": "Activities",
+    "text": "Activities\nFILE: car-loans.docx\nInstructors can contact me for keys :)",
+    "crumbs": [
+      "Personal Finance",
+      "Borrowing Money"
+    ]
+  },
+  {
+    "objectID": "prob-intro-to-probability.html#activity",
+    "href": "prob-intro-to-probability.html#activity",
+    "title": "Introduction to Probability",
+    "section": "Activity",
+    "text": "Activity\nFILE: theoretical-and-empirical-probabilities.docx\nInstructors can contact me for keys :)",
+    "crumbs": [
+      "Probability",
+      "Introduction to Probability"
+    ]
+  },
+  {
+    "objectID": "prob-counting-to-probabilities.html#activity",
+    "href": "prob-counting-to-probabilities.html#activity",
+    "title": "Counting Our Way to Probabilities",
+    "section": "Activity",
+    "text": "Activity\nFILE: passwords.docx\nInstructors can contact me for keys :)",
+    "crumbs": [
+      "Probability",
+      "Counting Our Way to Probabilities"
+    ]
+  },
+  {
+    "objectID": "prob-using-counting-methods-to-find-probabilities.html#activity",
+    "href": "prob-using-counting-methods-to-find-probabilities.html#activity",
+    "title": "Using Counting Methods to find Probabilities",
+    "section": "Activity",
+    "text": "Activity\nFILE: counting-methods-and-probability.docx\nInstructors can contact me for keys :)",
+    "crumbs": [
+      "Probability",
+      "Using Counting Methods to find Probabilities"
+    ]
+  },
+  {
+    "objectID": "prob-addition-and-multiplication-rules.html#activity",
+    "href": "prob-addition-and-multiplication-rules.html#activity",
+    "title": "Addition and Multiplication Rules",
+    "section": "Activity",
+    "text": "Activity\nFILE: m-and-m-probabilities.docx\nInstructors can contact me for keys :)",
+    "crumbs": [
+      "Probability",
+      "Addition and Multiplication Rules"
+    ]
+  },
+  {
+    "objectID": "prob-expected-value.html#activity",
+    "href": "prob-expected-value.html#activity",
+    "title": "Expected Value",
+    "section": "Activity",
+    "text": "Activity\nFILE: roulette-expected-value.docx\nInstructors can contact me for keys :)",
+    "crumbs": [
+      "Probability",
+      "Expected Value"
+    ]
+  },
+  {
+    "objectID": "stats-collecting-data.html#activity",
+    "href": "stats-collecting-data.html#activity",
+    "title": "Collecting Data",
+    "section": "Activity",
+    "text": "Activity\nFILE: collecting-data.docx\nInstructors can contact me for keys :)",
+    "crumbs": [
+      "Statistics",
+      "Collecting Data"
+    ]
+  },
+  {
+    "objectID": "stats-displaying-data.html#activity",
+    "href": "stats-displaying-data.html#activity",
+    "title": "Displaying Data",
+    "section": "Activity",
+    "text": "Activity\nFILE: deceptions-in-visual-displays-of-data.docx\nInstructors can contact me for keys :)",
+    "crumbs": [
+      "Statistics",
+      "Displaying Data"
+    ]
+  },
+  {
+    "objectID": "stats-describing-and-analyzing-data.html#activity",
+    "href": "stats-describing-and-analyzing-data.html#activity",
+    "title": "Describing and Analzying Data",
+    "section": "Activity",
+    "text": "Activity\nFILE: averages-and-outliers.docx\nInstructors can contact me for keys :)",
+    "crumbs": [
+      "Statistics",
+      "Describing and Analzying Data"
+    ]
+  },
+  {
+    "objectID": "stats-linear-regression.html#activity",
+    "href": "stats-linear-regression.html#activity",
+    "title": "Linear Regression",
+    "section": "Activity",
+    "text": "Activity\nFILE: correlation-and-regression-STARTER.xlsx, includes directions.\nInstructors can contact me for keys :)",
+    "crumbs": [
+      "Statistics",
+      "Linear Regression"
+    ]
   }
 ]

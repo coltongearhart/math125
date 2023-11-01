@@ -11,3 +11,11 @@ FILE: [addition-and-multiplication-rules.pptx](https://github.com/coltongearhart
 FILE: [addition-and-multiplication-rules-STARTER.docx](https://github.com/coltongearhart/math125/blob/main/probability/addition-and-multiplication-rules-STARTER.docx)
 
 <embed src="probability/addition-and-multiplication-rules-COMPLETED.pdf" type="application/pdf" width="100%" height="1000px"></embed>
+
+## Activity
+
+FILE: [m-and-m-probabilities.docx](https://github.com/coltongearhart/math125/blob/main/probability/activities/m-and-m-probabilities.docx)
+
+Instructors can contact me for keys :)
+
+<embed src="probability/activities/m-and-m-probabilities.pdf" type="application/pdf" width="100%" height="1000px"></embed>

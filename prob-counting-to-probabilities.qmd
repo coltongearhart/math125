@@ -11,3 +11,11 @@ FILE: [counting-to-probabilities.pptx](https://github.com/coltongearhart/math125
 FILE: [counting-to-probabilities-STARTER.docx](https://github.com/coltongearhart/math125/blob/main/probability/counting-to-probabilities-STARTER.docx)
 
 <embed src="probability/counting-to-probabilities-COMPLETED.pdf" type="application/pdf" width="100%" height="1000px"></embed>
+
+## Activity
+
+FILE: [passwords.docx](https://github.com/coltongearhart/math125/blob/main/probability/activities/passwords.docx)
+
+Instructors can contact me for keys :)
+
+<embed src="probability/activities/passwords.pdf" type="application/pdf" width="100%" height="1000px"></embed>

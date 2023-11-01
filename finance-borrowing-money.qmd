@@ -11,3 +11,13 @@ FILE: [borrowing-money.pptx](https://github.com/coltongearhart/math125/blob/main
 FILE: [borrowing-money-STARTER.docx](https://github.com/coltongearhart/math125/blob/main/finance/borrowing-money-STARTER.docx)
 
 <embed src="finance/borrowing-money-COMPLETED.pdf" type="application/pdf" width="100%" height="1000px"></embed>
+
+## Activities
+
+FILE: [car-loans.docx](https://github.com/coltongearhart/math125/blob/main/finance/activities/car-loans.docx)
+
+Instructors can contact me for keys :)
+
+<embed src="finance/activities/car-loans.pdf" type="application/pdf" width="100%" height="1000px"></embed>
+
+<embed src="finance/activities/paying-it-back.pdf" type="application/pdf" width="100%" height="1000px"></embed>

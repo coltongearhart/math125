@@ -11,3 +11,11 @@ FILE: [intro-to-probability.pptx](https://github.com/coltongearhart/math125/blob
 FILE: [intro-to-probability-STARTER.docx](https://github.com/coltongearhart/math125/blob/main/probability/intro-to-probability-STARTER.docx)
 
 <embed src="probability/intro-to-probability-COMPLETED.pdf" type="application/pdf" width="100%" height="1000px"></embed>
+
+## Activity
+
+FILE: [theoretical-and-empirical-probabilities.docx](https://github.com/coltongearhart/math125/blob/main/probability/activities/theoretical-and-empirical-probabilities.docx)
+
+Instructors can contact me for keys :)
+
+<embed src="probability/activities/theoretical-and-empirical-probabilities.pdf" type="application/pdf" width="100%" height="1000px"></embed>

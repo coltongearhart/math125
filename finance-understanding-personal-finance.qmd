@@ -11,3 +11,11 @@ FILE: [understanding-personal-finance.pptx](https://github.com/coltongearhart/ma
 FILE: [understanding-personal-finance-STARTER.docx](https://github.com/coltongearhart/math125/blob/main/finance/understanding-personal-finance-STARTER.docx)
 
 <embed src="finance/understanding-personal-finance-COMPLETED.pdf" type="application/pdf" width="100%" height="1000px"></embed>
+
+## Activity
+
+FILE: [exploring-the-cost-of-living.docx](https://github.com/coltongearhart/math125/blob/main/finance/activities/exploring-the-cost-of-living.docx)
+
+Instructors can contact me for keys :)
+
+<embed src="finance/activities/exploring-the-cost-of-living.pdf" type="application/pdf" width="100%" height="1000px"></embed>

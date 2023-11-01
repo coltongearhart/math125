@@ -11,3 +11,12 @@ FILE: [describing-and-analyzing-data.pptx](https://github.com/coltongearhart/mat
 FILE: [describing-and-analyzing-data-STARTER.docx](https://github.com/coltongearhart/math125/blob/main/stats/describing-and-analyzing-data-STARTER.docx)
 
 <embed src="stats/describing-and-analyzing-data-COMPLETED.pdf" type="application/pdf" width="100%" height="1000px"></embed>
+
+## Activity
+
+FILE: [averages-and-outliers.docx](https://github.com/coltongearhart/math125/blob/main/stats/activities/averages-and-outliers.docx)
+
+Instructors can contact me for keys :)
+
+<embed src="stats/activities/averages-and-outliers.pdf" type="application/pdf" width="100%" height="1000px"></embed>
+

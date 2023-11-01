@@ -11,3 +11,11 @@ FILE: [saving-money.pptx](https://github.com/coltongearhart/math125/blob/main/fi
 FILE: [saving-money-STARTER.docx](https://github.com/coltongearhart/math125/blob/main/finance/saving-money-STARTER.docx)
 
 <embed src="finance/saving-money-COMPLETED.pdf" type="application/pdf" width="100%" height="1000px"></embed>
+
+## Activity
+
+FILE: [comparing-investment-options.docx](https://github.com/coltongearhart/math125/blob/main/finance/activities/comparing-investment-options.docx)
+
+Instructors can contact me for keys :)
+
+<embed src="finance/activities/comparing-investment-options.pdf" type="application/pdf" width="100%" height="1000px"></embed>

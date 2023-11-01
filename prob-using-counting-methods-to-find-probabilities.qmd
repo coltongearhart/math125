@@ -11,3 +11,11 @@ FILE: [using-counting-methods-to-find-probabilities.pptx](https://github.com/col
 FILE: [using-counting-methods-to-find-probabilities-STARTER.docx](https://github.com/coltongearhart/math125/blob/main/probability/using-counting-methods-to-find-probabilities-STARTER.docx)
 
 <embed src="probability/using-counting-methods-to-find-probabilities-COMPLETED.pdf" type="application/pdf" width="100%" height="1000px"></embed>
+
+## Activity
+
+FILE: [counting-methods-and-probability.docx](https://github.com/coltongearhart/math125/blob/main/probability/activities/counting-methods-and-probability.docx)
+
+Instructors can contact me for keys :)
+
+<embed src="probability/activites/counting-methods-and-probability.pdf" type="application/pdf" width="100%" height="1000px"></embed>

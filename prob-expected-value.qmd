@@ -11,3 +11,11 @@ FILE: [expected-value.pptx](https://github.com/coltongearhart/math125/blob/main/
 FILE: [expected-value-STARTER.docx](https://github.com/coltongearhart/math125/blob/main/probability/expected-value-STARTER.docx)
 
 <embed src="probability/expected-value-COMPLETED.pdf" type="application/pdf" width="100%" height="1000px"></embed>
+
+## Activity
+
+FILE: [roulette-expected-value.docx](https://github.com/coltongearhart/math125/blob/main/probability/activities/roulette-expected-value.docx)
+
+Instructors can contact me for keys :)
+
+<embed src="probability/activities/roulette-expected-value.pdf" type="application/pdf" width="100%" height="1000px"></embed>
