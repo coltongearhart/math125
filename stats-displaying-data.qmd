@@ -2,7 +2,7 @@
 
 ## Slides
 
-FILE: [displaying-data.pptx](https://github.com/coltongearhart/math125/blob/main/stats/displaying-datas.pptx)
+FILE: [displaying-data.pptx](https://github.com/coltongearhart/math125/blob/main/stats/displaying-data.pptx)
 
 <embed src="stats/displaying-data.pdf" type="application/pdf" width="100%" height="500px"></embed>
 

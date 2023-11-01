@@ -2,7 +2,7 @@
 
 ## Slides
 
-FILE: [linear-regression.pptx](https://github.com/coltongearhart/math125/blob/main/stats/linear-regressions.pptx)
+FILE: [linear-regression.pptx](https://github.com/coltongearhart/math125/blob/main/stats/linear-regression.pptx)
 
 <embed src="stats/linear-regression.pdf" type="application/pdf" width="100%" height="500px"></embed>
 

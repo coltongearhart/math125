@@ -12,6 +12,6 @@ FILE: [probability-review.docx](https://github.com/coltongearhart/math125/blob/m
 
 ## Study Formula Sheet
 
-FILE: blank [probability-study-formula-sheet.docx](https://github.com/coltongearhart/math125/blob/main/probability/formula-sheet.docx)
+FILE: blank [probability-study-formula-sheet.docx](https://github.com/coltongearhart/math125/blob/main/probability/probability-study-formula-sheet.docx)
 
 <embed src="probability/probability-study-formula-sheet-ANNOTATED.pdf" type="application/pdf" width="100%" height="1000px"></embed>

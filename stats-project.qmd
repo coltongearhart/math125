@@ -4,7 +4,7 @@
 
 Before students work on the statistics project, they are lead through an in class Excel activity.
 
-FILES: [excel-lesson-STARTER.xlsx](https://github.com/coltongearhart/math125/blob/main/stats/excel-lesson.xlsx) and [excel-lesson-COMPLETED.xlsx](https://github.com/coltongearhart/math125/blob/main/stats/excel-lesson-COMPLETED.xlsx)
+FILES: [excel-lesson-STARTER.xlsx](https://github.com/coltongearhart/math125/blob/main/stats/excel-lesson-STARTER.xlsx) and [excel-lesson-COMPLETED.xlsx](https://github.com/coltongearhart/math125/blob/main/stats/excel-lesson-COMPLETED.xlsx)
 
 ## Project Instructions
 
@@ -14,7 +14,7 @@ FILE: blank [data-analysis-project-instructions.docx](https://github.com/coltong
 
 ## STARTER Files
 
-FILES: [data-analysis-project-STARTER.xlsx](https://github.com/coltongearhart/math125/blob/main/stats/data-analysis-project-STARTER.xlsx) and [data-analysis-project-submission-template.pptx](https://github.com/coltongearhart/math125/blob/main/stats/formula-sheet..pptx)
+FILES: [data-analysis-project-STARTER.xlsx](https://github.com/coltongearhart/math125/blob/main/stats/data-analysis-project-STARTER.xlsx) and [data-analysis-project-submission-template.pptx](https://github.com/coltongearhart/math125/blob/main/stats/data-analysis-project-submission-template.pptx)
 
 <embed src="stats/data-analysis-project-submission-template.pdf" type="application/pdf" width="100%" height="500px"></embed>
 

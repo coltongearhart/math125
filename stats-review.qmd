@@ -12,6 +12,6 @@ FILE: [stats-review.docx](https://github.com/coltongearhart/math125/blob/main/st
 
 ## Study Formula Sheet
 
-FILE: blank [stats-study-formula-sheet.docx](https://github.com/coltongearhart/math125/blob/main/stats/formula-sheet.docx)
+FILE: blank [stats-study-formula-sheet.docx](https://github.com/coltongearhart/math125/blob/main/stats/stats-study-formula-sheet.docx)
 
 <embed src="stats/stats-study-formula-sheet-ANNOTATED.pdf" type="application/pdf" width="100%" height="1000px"></embed>

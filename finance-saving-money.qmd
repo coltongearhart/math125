@@ -2,7 +2,7 @@
 
 ## Slides
 
-FILE: [saving-money.pptx](https://github.com/coltongearhart/math125/blob/main/finance/saving-moneys.pptx)
+FILE: [saving-money.pptx](https://github.com/coltongearhart/math125/blob/main/finance/saving-money.pptx)
 
 <embed src="finance/saving-money.pdf" type="application/pdf" width="100%" height="500px"></embed>
 

@@ -2,7 +2,7 @@
 
 ## Slides
 
-FILE: [understanding-personal-finance.pptx](https://github.com/coltongearhart/math125/blob/main/finance/understanding-personal-finances.pptx)
+FILE: [understanding-personal-finance.pptx](https://github.com/coltongearhart/math125/blob/main/finance/understanding-personal-finance.pptx)
 
 <embed src="finance/understanding-personal-finance.pdf" type="application/pdf" width="100%" height="500px"></embed>
 

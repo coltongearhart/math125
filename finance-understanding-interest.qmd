@@ -2,7 +2,7 @@
 
 ## Slides
 
-FILE: [understanding-interest.pptx](https://github.com/coltongearhart/math125/blob/main/finance/understanding-interests.pptx)
+FILE: [understanding-interest.pptx](https://github.com/coltongearhart/math125/blob/main/finance/understanding-interest.pptx)
 
 <embed src="finance/understanding-interest.pdf" type="application/pdf" width="100%" height="500px"></embed>
 

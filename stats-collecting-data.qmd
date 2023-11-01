@@ -2,7 +2,7 @@
 
 ## Slides
 
-FILE: [collecting-data.pptx](https://github.com/coltongearhart/math125/blob/main/stats/collecting-datas.pptx)
+FILE: [collecting-data.pptx](https://github.com/coltongearhart/math125/blob/main/stats/collecting-data.pptx)
 
 <embed src="stats/collecting-data.pdf" type="application/pdf" width="100%" height="500px"></embed>
 

@@ -10,6 +10,6 @@
 
 ## Formula Sheet
 
-FILE: blank [finance-formula-sheet.pdf](https://github.com/coltongearhart/math125/blob/main/finance/formula-sheet.pdf)
+FILE: blank [finance-formula-sheet.pdf](https://github.com/coltongearhart/math125/blob/main/finance/finance-formula-sheet.pdf)
 
 <embed src="finance/finance-formula-sheet-ANNOTATED.pdf" type="application/pdf" width="100%" height="1000px"></embed>

@@ -2,7 +2,7 @@
 
 ## Slides
 
-FILE: [addition-and-multiplication-rules.pptx](https://github.com/coltongearhart/math125/blob/main/probability/addition-and-multiplication-ruless.pptx)
+FILE: [addition-and-multiplication-rules.pptx](https://github.com/coltongearhart/math125/blob/main/probability/addition-and-multiplication-rules.pptx)
 
 <embed src="probability/addition-and-multiplication-rules.pdf" type="application/pdf" width="100%" height="500px"></embed>
 

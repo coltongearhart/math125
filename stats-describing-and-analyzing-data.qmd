@@ -2,7 +2,7 @@
 
 ## Slides
 
-FILE: [describing-and-analyzing-data.pptx](https://github.com/coltongearhart/math125/blob/main/stats/describing-and-analyzing-datas.pptx)
+FILE: [describing-and-analyzing-data.pptx](https://github.com/coltongearhart/math125/blob/main/stats/describing-and-analyzing-data.pptx)
 
 <embed src="stats/describing-and-analyzing-data.pdf" type="application/pdf" width="100%" height="500px"></embed>
 
