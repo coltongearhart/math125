@@ -1,5 +1,0 @@
-# Extra Content {.unnumbered}
-
-This part contains additional topics (or differently covered topics) that can be optionally included or interchanged based on the context of the specific course.
-
-- Examples include: Experiments, simulation, assumption checking for inference, etc.
