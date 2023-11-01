@@ -18,4 +18,4 @@ FILE: [counting-methods-and-probability.docx](https://github.com/coltongearhart/
 
 Instructors can contact me for keys :)
 
-<embed src="probability/activites/counting-methods-and-probability.pdf" type="application/pdf" width="100%" height="1000px"></embed>
+<embed src="probability/activities/counting-methods-and-probability.pdf" type="application/pdf" width="100%" height="1000px"></embed>

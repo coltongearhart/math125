@@ -14,8 +14,6 @@ FILE: [understanding-interest-STARTER.docx](https://github.com/coltongearhart/ma
 
 ## Activity
 
-FILE: [simple-and-compound-interest.docx](https://github.com/coltongearhart/math125/blob/main/finance/activities/simple-and-compound-interest.docx)
-
 Instructors can contact me for keys :)
 
 <embed src="finance/activities/simple-and-compound-interest.pdf" type="application/pdf" width="100%" height="1000px"></embed>

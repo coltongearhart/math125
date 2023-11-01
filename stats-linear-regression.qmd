@@ -16,6 +16,6 @@ FILE: [linear-regression-STARTER.docx](https://github.com/coltongearhart/math125
 
 ## Activity
 
-FILE: [correlation-and-regression-STARTER.xlsx](https://github.com/coltongearhart/math125/blob/main/stats/activities/correlation-and-regression-STARTER.docx), includes directions.
+FILE: [correlation-and-regression-STARTER.xlsx](https://github.com/coltongearhart/math125/blob/main/stats/activities/correlation-and-regression-STARTER.xlsx), includes directions.
 
 Instructors can contact me for keys :)
