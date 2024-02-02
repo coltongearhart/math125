@@ -2,11 +2,11 @@
 
 ## Activity
 
-<embed src="finance/using-finance-formulas-review.pdf" type="application/pdf" width="100%" height="1000px"></embed>
+<embed src="finance/activities/using-finance-formulas.pdf" type="application/pdf" width="100%" height="1000px"></embed>
 
 ## KEY
 
-<embed src="finance/using-finance-formulas-review-COMPLETED.pdf" type="application/pdf" width="100%" height="1000px"></embed>
+<embed src="finance/activities/using-finance-formulas-KEY.pdf" type="application/pdf" width="100%" height="1000px"></embed>
 
 ## Formula Sheet
 

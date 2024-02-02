@@ -2,11 +2,11 @@
 
 ## Overview
 
-- Below is the course calendar. NOTE this calendar is for the FA-23 semester.
+- Below is the course calendar. NOTE this calendar is for the SP-24 semester.
 
-- FILE: [math125-course-calendar-fa23.docx](https://github.com/coltongearhart/math125/blob/main/intro/math125-course-calendar-fa23.docx)
+- FILE: [math125-course-calendar-sp24.docx](https://github.com/coltongearhart/math125/blob/main/intro/math125-course-calendar-sp24.docx)
 
-<embed src="intro/math125-course-calendar-fa23.pdf" type="application/pdf" width="100%" height="1000px"></embed>
+<embed src="intro/math125-course-calendar-sp24.pdf" type="application/pdf" width="100%" height="1000px"></embed>
 
 ## Source
 

@@ -2,13 +2,13 @@
 
 ## Activity
 
-FILE: [probability-review.docx](https://github.com/coltongearhart/math125/blob/main/probability/probability-review.docx)
+FILE: [probability-review.docx](https://github.com/coltongearhart/math125/blob/main/probability/activities/probability-review.docx)
 
-<embed src="probability/probability-review.pdf" type="application/pdf" width="100%" height="1000px"></embed>
+<embed src="probability/activities/probability-review.pdf" type="application/pdf" width="100%" height="1000px"></embed>
 
 ## KEY
 
-<embed src="probability/probability-review-COMPLETED.pdf" type="application/pdf" width="100%" height="1000px"></embed>
+<embed src="probability/activities/probability-review-KEY.pdf" type="application/pdf" width="100%" height="1000px"></embed>
 
 ## Study Formula Sheet
 

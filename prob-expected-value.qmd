@@ -16,4 +16,4 @@ FILE: [expected-value-STARTER.docx](https://github.com/coltongearhart/math125/bl
 
 Instructors can contact me for keys :)
 
-<embed src="probability/activities/roulette-expected-value.pdf" type="application/pdf" width="100%" height="1000px"></embed>
+<embed src="probability/activities/expected-value.pdf" type="application/pdf" width="100%" height="1000px"></embed>

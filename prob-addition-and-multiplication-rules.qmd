@@ -2,15 +2,15 @@
 
 ## Slides
 
-FILE: [addition-and-multiplication-rules.pptx](https://github.com/coltongearhart/math125/blob/main/probability/addition-and-multiplication-rules.pptx)
+FILE: [addition-and-multiplication-rules-of-probability.pptx](https://github.com/coltongearhart/math125/blob/main/probability/addition-and-multiplication-rules-of-probability.pptx)
 
-<embed src="probability/addition-and-multiplication-rules.pdf" type="application/pdf" width="100%" height="500px"></embed>
+<embed src="probability/addition-and-multiplication-rules-of-probability.pdf" type="application/pdf" width="100%" height="500px"></embed>
 
 ## Guided Notes
 
-FILE: [addition-and-multiplication-rules-STARTER.docx](https://github.com/coltongearhart/math125/blob/main/probability/addition-and-multiplication-rules-STARTER.docx)
+FILE: [addition-and-multiplication-rules-of-probability-STARTER.docx](https://github.com/coltongearhart/math125/blob/main/probability/addition-and-multiplication-rules-of-probability-STARTER.docx)
 
-<embed src="probability/addition-and-multiplication-rules-COMPLETED.pdf" type="application/pdf" width="100%" height="1000px"></embed>
+<embed src="probability/addition-and-multiplication-rules-of-probability-COMPLETED.pdf" type="application/pdf" width="100%" height="1000px"></embed>
 
 ## Activity
 

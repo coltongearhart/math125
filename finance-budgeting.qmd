@@ -1,0 +1,17 @@
+# Budgeting {.unnumbered}
+
+## Slides
+
+FILE: [budgeting.pptx](https://github.com/coltongearhart/math125/blob/main/finance/budgeting.pptx)
+
+<embed src="finance/budgeting.pdf" type="application/pdf" width="100%" height="500px"></embed>
+
+## Guided Notes
+
+FILE: [budgeting-STARTER.docx](https://github.com/coltongearhart/math125/blob/main/finance/budgeting-STARTER.docx)
+
+<embed src="finance/budgeting-COMPLETED.pdf" type="application/pdf" width="100%" height="1000px"></embed>
+
+## Activities
+
+<embed src="finance/activities/college-budget-worksheet.pdf" type="application/pdf" width="100%" height="1000px"></embed>

@@ -1,24 +1,32 @@
 [
   {
-    "objectID": "prob-counting-to-probabilities.html#slides",
-    "href": "prob-counting-to-probabilities.html#slides",
-    "title": "Counting Our Way to Probabilities",
-    "section": "Slides",
-    "text": "Slides\nFILE: counting-to-probabilities.pptx",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "MATH 125 –Quantitative Reasoning",
+    "section": "",
+    "text": "Overview",
     "crumbs": [
-      "Probability",
-      "Counting Our Way to Probabilities"
+      "Overview"
     ]
   },
   {
-    "objectID": "prob-counting-to-probabilities.html#guided-notes",
-    "href": "prob-counting-to-probabilities.html#guided-notes",
-    "title": "Counting Our Way to Probabilities",
-    "section": "Guided Notes",
-    "text": "Guided Notes\nFILE: counting-to-probabilities-STARTER.docx",
+    "objectID": "index.html#overview-1",
+    "href": "index.html#overview-1",
+    "title": "MATH 125 –Quantitative Reasoning",
+    "section": "Overview",
+    "text": "Overview\n\nBelow is the course calendar. NOTE this calendar is for the SP-24 semester.\nFILE: math125-course-calendar-sp24.docx",
     "crumbs": [
-      "Probability",
-      "Counting Our Way to Probabilities"
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "index.html#source",
+    "href": "index.html#source",
+    "title": "MATH 125 –Quantitative Reasoning",
+    "section": "Source",
+    "text": "Source\n\n\n\n\n\n\nQuarto blog publish details\n\n\n\nThis book was created using Quarto and published with Github Pages.\n\n\n\n\n\n\n\n\nGithub repository for code\n\n\n\nYou can find the code to reproduce this project at coltongearhart/math125.",
+    "crumbs": [
+      "Overview"
     ]
   },
   {
@@ -26,38 +34,49 @@
     "href": "syllabus.html",
     "title": "Syllabus",
     "section": "",
-    "text": "FILE: math125-syllabus-fa23.docx",
+    "text": "FILE: math125-syllabus-sp24.docx",
     "crumbs": [
       "Syllabus"
     ]
   },
   {
-    "objectID": "finance-understanding-personal-finance.html#slides",
-    "href": "finance-understanding-personal-finance.html#slides",
-    "title": "Understanding Personal Finance",
-    "section": "Slides",
-    "text": "Slides\nFILE: understanding-personal-finance.pptx",
+    "objectID": "finance-using-percentages.html",
+    "href": "finance-using-percentages.html",
+    "title": "Using Percentages",
+    "section": "",
+    "text": "Slides\nFILE: using-percentages.pptx",
     "crumbs": [
       "Personal Finance",
-      "Understanding Personal Finance"
+      "Using Percentages"
     ]
   },
   {
-    "objectID": "finance-understanding-personal-finance.html#guided-notes",
-    "href": "finance-understanding-personal-finance.html#guided-notes",
-    "title": "Understanding Personal Finance",
+    "objectID": "finance-using-percentages.html#guided-notes",
+    "href": "finance-using-percentages.html#guided-notes",
+    "title": "Using Percentages",
     "section": "Guided Notes",
-    "text": "Guided Notes\nFILE: understanding-personal-finance-STARTER.docx",
+    "text": "Guided Notes\nFILE: using-percentages-STARTER.docx",
     "crumbs": [
       "Personal Finance",
-      "Understanding Personal Finance"
+      "Using Percentages"
     ]
   },
   {
-    "objectID": "finance-understanding-interest.html#slides",
-    "href": "finance-understanding-interest.html#slides",
+    "objectID": "finance-using-percentages.html#activity",
+    "href": "finance-using-percentages.html#activity",
+    "title": "Using Percentages",
+    "section": "Activity",
+    "text": "Activity\nInstructors can contact me for keys :)",
+    "crumbs": [
+      "Personal Finance",
+      "Using Percentages"
+    ]
+  },
+  {
+    "objectID": "finance-understanding-interest.html",
+    "href": "finance-understanding-interest.html",
     "title": "Understanding Interest",
-    "section": "Slides",
+    "section": "",
     "text": "Slides\nFILE: understanding-interest.pptx",
     "crumbs": [
       "Personal Finance",
@@ -76,32 +95,54 @@
     ]
   },
   {
-    "objectID": "finance-saving-money.html#slides",
-    "href": "finance-saving-money.html#slides",
-    "title": "Saving Money",
-    "section": "Slides",
-    "text": "Slides\nFILE: saving-money.pptx",
+    "objectID": "finance-understanding-interest.html#activity",
+    "href": "finance-understanding-interest.html#activity",
+    "title": "Understanding Interest",
+    "section": "Activity",
+    "text": "Activity\nInstructors can contact me for keys :)",
     "crumbs": [
       "Personal Finance",
-      "Saving Money"
+      "Understanding Interest"
     ]
   },
   {
-    "objectID": "finance-saving-money.html#guided-notes",
-    "href": "finance-saving-money.html#guided-notes",
-    "title": "Saving Money",
+    "objectID": "finance-saving-and-investing.html",
+    "href": "finance-saving-and-investing.html",
+    "title": "Saving and Investing",
+    "section": "",
+    "text": "Slides\nFILE: saving-and-investing.pptx",
+    "crumbs": [
+      "Personal Finance",
+      "Saving and Investing"
+    ]
+  },
+  {
+    "objectID": "finance-saving-and-investing.html#guided-notes",
+    "href": "finance-saving-and-investing.html#guided-notes",
+    "title": "Saving and Investing",
     "section": "Guided Notes",
-    "text": "Guided Notes\nFILE: saving-money-STARTER.docx",
+    "text": "Guided Notes\nFILE: saving-and-investing-STARTER.docx",
     "crumbs": [
       "Personal Finance",
-      "Saving Money"
+      "Saving and Investing"
     ]
   },
   {
-    "objectID": "finance-borrowing-money.html#slides",
-    "href": "finance-borrowing-money.html#slides",
+    "objectID": "finance-saving-and-investing.html#activity",
+    "href": "finance-saving-and-investing.html#activity",
+    "title": "Saving and Investing",
+    "section": "Activity",
+    "text": "Activity\nFILE: comparing-investment-options.docx\nInstructors can contact me for keys :)",
+    "crumbs": [
+      "Personal Finance",
+      "Saving and Investing"
+    ]
+  },
+  {
+    "objectID": "finance-borrowing-money.html",
+    "href": "finance-borrowing-money.html",
     "title": "Borrowing Money",
-    "section": "Slides",
+    "section": "",
     "text": "Slides\nFILE: borrowing-money.pptx",
     "crumbs": [
       "Personal Finance",
@@ -120,10 +161,54 @@
     ]
   },
   {
-    "objectID": "finance-review.html#activity",
-    "href": "finance-review.html#activity",
+    "objectID": "finance-borrowing-money.html#activities",
+    "href": "finance-borrowing-money.html#activities",
+    "title": "Borrowing Money",
+    "section": "Activities",
+    "text": "Activities\nFILE: car-loans.docx\nInstructors can contact me for keys :)",
+    "crumbs": [
+      "Personal Finance",
+      "Borrowing Money"
+    ]
+  },
+  {
+    "objectID": "finance-budgeting.html",
+    "href": "finance-budgeting.html",
+    "title": "Budgeting",
+    "section": "",
+    "text": "Slides\nFILE: budgeting.pptx",
+    "crumbs": [
+      "Personal Finance",
+      "Budgeting"
+    ]
+  },
+  {
+    "objectID": "finance-budgeting.html#guided-notes",
+    "href": "finance-budgeting.html#guided-notes",
+    "title": "Budgeting",
+    "section": "Guided Notes",
+    "text": "Guided Notes\nFILE: budgeting-STARTER.docx",
+    "crumbs": [
+      "Personal Finance",
+      "Budgeting"
+    ]
+  },
+  {
+    "objectID": "finance-budgeting.html#activities",
+    "href": "finance-budgeting.html#activities",
+    "title": "Budgeting",
+    "section": "Activities",
+    "text": "Activities",
+    "crumbs": [
+      "Personal Finance",
+      "Budgeting"
+    ]
+  },
+  {
+    "objectID": "finance-review.html",
+    "href": "finance-review.html",
     "title": "Review",
-    "section": "Activity",
+    "section": "",
     "text": "Activity",
     "crumbs": [
       "Personal Finance",
@@ -153,10 +238,10 @@
     ]
   },
   {
-    "objectID": "prob-intro-to-probability.html#slides",
-    "href": "prob-intro-to-probability.html#slides",
+    "objectID": "prob-intro-to-probability.html",
+    "href": "prob-intro-to-probability.html",
     "title": "Introduction to Probability",
-    "section": "Slides",
+    "section": "",
     "text": "Slides\nFILE: intro-to-probability.pptx",
     "crumbs": [
       "Probability",
@@ -175,33 +260,88 @@
     ]
   },
   {
-    "objectID": "prob-using-counting-methods-to-find-probabilities.html#slides",
-    "href": "prob-using-counting-methods-to-find-probabilities.html#slides",
-    "title": "Using Counting Methods to find Probabilities",
-    "section": "Slides",
-    "text": "Slides\nFILE: using-counting-methods-to-find-probabilities.pptx",
+    "objectID": "prob-intro-to-probability.html#activity",
+    "href": "prob-intro-to-probability.html#activity",
+    "title": "Introduction to Probability",
+    "section": "Activity",
+    "text": "Activity\nFILE: theoretical-and-empirical-probability.docx\nInstructors can contact me for keys :)",
     "crumbs": [
       "Probability",
-      "Using Counting Methods to find Probabilities"
+      "Introduction to Probability"
     ]
   },
   {
-    "objectID": "prob-using-counting-methods-to-find-probabilities.html#guided-notes",
-    "href": "prob-using-counting-methods-to-find-probabilities.html#guided-notes",
-    "title": "Using Counting Methods to find Probabilities",
+    "objectID": "prob-counting-outcomes.html",
+    "href": "prob-counting-outcomes.html",
+    "title": "Counting Outcomes",
+    "section": "",
+    "text": "Slides\nFILE: counting-outcomes.pptx",
+    "crumbs": [
+      "Probability",
+      "Counting Outcomes"
+    ]
+  },
+  {
+    "objectID": "prob-counting-outcomes.html#guided-notes",
+    "href": "prob-counting-outcomes.html#guided-notes",
+    "title": "Counting Outcomes",
     "section": "Guided Notes",
-    "text": "Guided Notes\nFILE: using-counting-methods-to-find-probabilities-STARTER.docx",
+    "text": "Guided Notes\nFILE: counting-outcomes-STARTER.docx",
     "crumbs": [
       "Probability",
-      "Using Counting Methods to find Probabilities"
+      "Counting Outcomes"
     ]
   },
   {
-    "objectID": "prob-addition-and-multiplication-rules.html#slides",
-    "href": "prob-addition-and-multiplication-rules.html#slides",
+    "objectID": "prob-counting-outcomes.html#activity",
+    "href": "prob-counting-outcomes.html#activity",
+    "title": "Counting Outcomes",
+    "section": "Activity",
+    "text": "Activity\nFILE: passwords.docx\nInstructors can contact me for keys :)",
+    "crumbs": [
+      "Probability",
+      "Counting Outcomes"
+    ]
+  },
+  {
+    "objectID": "prob-probability-of-single-events.html",
+    "href": "prob-probability-of-single-events.html",
+    "title": "Probability of Single Events",
+    "section": "",
+    "text": "Slides\nFILE: probability-of-single-events.pptx",
+    "crumbs": [
+      "Probability",
+      "Probability of Single Events"
+    ]
+  },
+  {
+    "objectID": "prob-probability-of-single-events.html#guided-notes",
+    "href": "prob-probability-of-single-events.html#guided-notes",
+    "title": "Probability of Single Events",
+    "section": "Guided Notes",
+    "text": "Guided Notes\nFILE: probability-of-single-events-STARTER.docx",
+    "crumbs": [
+      "Probability",
+      "Probability of Single Events"
+    ]
+  },
+  {
+    "objectID": "prob-probability-of-single-events.html#activity",
+    "href": "prob-probability-of-single-events.html#activity",
+    "title": "Probability of Single Events",
+    "section": "Activity",
+    "text": "Activity\nFILE: counting-methods-and-probability.docx\nInstructors can contact me for keys :)",
+    "crumbs": [
+      "Probability",
+      "Probability of Single Events"
+    ]
+  },
+  {
+    "objectID": "prob-addition-and-multiplication-rules.html",
+    "href": "prob-addition-and-multiplication-rules.html",
     "title": "Addition and Multiplication Rules",
-    "section": "Slides",
-    "text": "Slides\nFILE: addition-and-multiplication-rules.pptx",
+    "section": "",
+    "text": "Slides\nFILE: addition-and-multiplication-rules-of-probability.pptx",
     "crumbs": [
       "Probability",
       "Addition and Multiplication Rules"
@@ -212,17 +352,28 @@
     "href": "prob-addition-and-multiplication-rules.html#guided-notes",
     "title": "Addition and Multiplication Rules",
     "section": "Guided Notes",
-    "text": "Guided Notes\nFILE: addition-and-multiplication-rules-STARTER.docx",
+    "text": "Guided Notes\nFILE: addition-and-multiplication-rules-of-probability-STARTER.docx",
     "crumbs": [
       "Probability",
       "Addition and Multiplication Rules"
     ]
   },
   {
-    "objectID": "prob-expected-value.html#slides",
-    "href": "prob-expected-value.html#slides",
+    "objectID": "prob-addition-and-multiplication-rules.html#activity",
+    "href": "prob-addition-and-multiplication-rules.html#activity",
+    "title": "Addition and Multiplication Rules",
+    "section": "Activity",
+    "text": "Activity\nFILE: m-and-m-probabilities.docx\nInstructors can contact me for keys :)",
+    "crumbs": [
+      "Probability",
+      "Addition and Multiplication Rules"
+    ]
+  },
+  {
+    "objectID": "prob-expected-value.html",
+    "href": "prob-expected-value.html",
     "title": "Expected Value",
-    "section": "Slides",
+    "section": "",
     "text": "Slides\nFILE: expected-value.pptx",
     "crumbs": [
       "Probability",
@@ -241,10 +392,21 @@
     ]
   },
   {
-    "objectID": "prob-review.html#activity",
-    "href": "prob-review.html#activity",
-    "title": "Review",
+    "objectID": "prob-expected-value.html#activity",
+    "href": "prob-expected-value.html#activity",
+    "title": "Expected Value",
     "section": "Activity",
+    "text": "Activity\nInstructors can contact me for keys :)",
+    "crumbs": [
+      "Probability",
+      "Expected Value"
+    ]
+  },
+  {
+    "objectID": "prob-review.html",
+    "href": "prob-review.html",
+    "title": "Review",
+    "section": "",
     "text": "Activity\nFILE: probability-review.docx",
     "crumbs": [
       "Probability",
@@ -274,32 +436,43 @@
     ]
   },
   {
-    "objectID": "stats-collecting-data.html#slides",
-    "href": "stats-collecting-data.html#slides",
-    "title": "Collecting Data",
-    "section": "Slides",
-    "text": "Slides\nFILE: collecting-data.pptx",
+    "objectID": "stats-statistical-studies.html",
+    "href": "stats-statistical-studies.html",
+    "title": "Statistical Studies",
+    "section": "",
+    "text": "Slides\nFILE: statistical-studies.pptx",
     "crumbs": [
       "Statistics",
-      "Collecting Data"
+      "Statistical Studies"
     ]
   },
   {
-    "objectID": "stats-collecting-data.html#guided-notes",
-    "href": "stats-collecting-data.html#guided-notes",
-    "title": "Collecting Data",
+    "objectID": "stats-statistical-studies.html#guided-notes",
+    "href": "stats-statistical-studies.html#guided-notes",
+    "title": "Statistical Studies",
     "section": "Guided Notes",
-    "text": "Guided Notes\nFILE: collecting-data-STARTER.docx",
+    "text": "Guided Notes\nFILE: statistical-studies-STARTER.docx and statistical-studies-COMPLETED.docx",
     "crumbs": [
       "Statistics",
-      "Collecting Data"
+      "Statistical Studies"
     ]
   },
   {
-    "objectID": "stats-displaying-data.html#slides",
-    "href": "stats-displaying-data.html#slides",
+    "objectID": "stats-statistical-studies.html#activity",
+    "href": "stats-statistical-studies.html#activity",
+    "title": "Statistical Studies",
+    "section": "Activity",
+    "text": "Activity\nFILE: collecting-data.docx\nInstructors can contact me for keys :)",
+    "crumbs": [
+      "Statistics",
+      "Statistical Studies"
+    ]
+  },
+  {
+    "objectID": "stats-displaying-data.html",
+    "href": "stats-displaying-data.html",
     "title": "Displaying Data",
-    "section": "Slides",
+    "section": "",
     "text": "Slides\nFILE: displaying-data.pptx",
     "crumbs": [
       "Statistics",
@@ -318,10 +491,21 @@
     ]
   },
   {
-    "objectID": "stats-describing-and-analyzing-data.html#slides",
-    "href": "stats-describing-and-analyzing-data.html#slides",
+    "objectID": "stats-displaying-data.html#activity",
+    "href": "stats-displaying-data.html#activity",
+    "title": "Displaying Data",
+    "section": "Activity",
+    "text": "Activity\nFILE: deceptions-in-visual-displays-of-data.docx\nInstructors can contact me for keys :)",
+    "crumbs": [
+      "Statistics",
+      "Displaying Data"
+    ]
+  },
+  {
+    "objectID": "stats-describing-and-analyzing-data.html",
+    "href": "stats-describing-and-analyzing-data.html",
     "title": "Describing and Analzying Data",
-    "section": "Slides",
+    "section": "",
     "text": "Slides\nFILE: describing-and-analyzing-data.pptx",
     "crumbs": [
       "Statistics",
@@ -340,54 +524,120 @@
     ]
   },
   {
-    "objectID": "stats-normal-distribution.html#slides",
-    "href": "stats-normal-distribution.html#slides",
-    "title": "Normal Distribution",
-    "section": "Slides",
-    "text": "Slides\nFILE: normal-distribution.pptx",
+    "objectID": "stats-describing-and-analyzing-data.html#activity",
+    "href": "stats-describing-and-analyzing-data.html#activity",
+    "title": "Describing and Analzying Data",
+    "section": "Activity",
+    "text": "Activity\nFILE: summarizing-datasets.docx\nInstructors can contact me for keys :)",
     "crumbs": [
       "Statistics",
-      "Normal Distribution"
+      "Describing and Analzying Data"
     ]
   },
   {
-    "objectID": "stats-normal-distribution.html#guided-notes",
-    "href": "stats-normal-distribution.html#guided-notes",
-    "title": "Normal Distribution",
+    "objectID": "stats-the-normal-distribution.html",
+    "href": "stats-the-normal-distribution.html",
+    "title": "The Normal Distribution",
+    "section": "",
+    "text": "Slides\nFILE: the-normal-distribution.pptx",
+    "crumbs": [
+      "Statistics",
+      "The Normal Distribution"
+    ]
+  },
+  {
+    "objectID": "stats-the-normal-distribution.html#guided-notes",
+    "href": "stats-the-normal-distribution.html#guided-notes",
+    "title": "The Normal Distribution",
     "section": "Guided Notes",
-    "text": "Guided Notes\nFILE: normal-distribution-STARTER.docx",
+    "text": "Guided Notes\nFILE: the-normal-distribution-STARTER.docx",
     "crumbs": [
       "Statistics",
-      "Normal Distribution"
+      "The Normal Distribution"
     ]
   },
   {
-    "objectID": "stats-linear-regression.html#slides",
-    "href": "stats-linear-regression.html#slides",
-    "title": "Linear Regression",
-    "section": "Slides",
-    "text": "Slides\nFILE: linear-regression.pptx",
+    "objectID": "stats-the-normal-distribution.html#activity",
+    "href": "stats-the-normal-distribution.html#activity",
+    "title": "The Normal Distribution",
+    "section": "Activity",
+    "text": "Activity\nFILE: normal-distributions.docx\nInstructors can contact me for keys :)",
     "crumbs": [
       "Statistics",
-      "Linear Regression"
+      "The Normal Distribution"
     ]
   },
   {
-    "objectID": "stats-linear-regression.html#guided-notes",
-    "href": "stats-linear-regression.html#guided-notes",
-    "title": "Linear Regression",
+    "objectID": "stats-confidence-intervals.html",
+    "href": "stats-confidence-intervals.html",
+    "title": "Confidence Intervals",
+    "section": "",
+    "text": "Slides\nFILE: confidence-intervals.pptx",
+    "crumbs": [
+      "Statistics",
+      "Confidence Intervals"
+    ]
+  },
+  {
+    "objectID": "stats-confidence-intervals.html#guided-notes",
+    "href": "stats-confidence-intervals.html#guided-notes",
+    "title": "Confidence Intervals",
     "section": "Guided Notes",
-    "text": "Guided Notes\nFILE: linear-regression-STARTER.docx",
+    "text": "Guided Notes\nFILE: confidence-intervals-STARTER.docx",
     "crumbs": [
       "Statistics",
-      "Linear Regression"
+      "Confidence Intervals"
     ]
   },
   {
-    "objectID": "stats-project.html#excel-lesson",
-    "href": "stats-project.html#excel-lesson",
+    "objectID": "stats-confidence-intervals.html#activity",
+    "href": "stats-confidence-intervals.html#activity",
+    "title": "Confidence Intervals",
+    "section": "Activity",
+    "text": "Activity\nInstructors can contact me for keys :)",
+    "crumbs": [
+      "Statistics",
+      "Confidence Intervals"
+    ]
+  },
+  {
+    "objectID": "stats-data-exploration.html",
+    "href": "stats-data-exploration.html",
+    "title": "Data Exploration",
+    "section": "",
+    "text": "Slides\nFILE: data-exploration.pptx",
+    "crumbs": [
+      "Statistics",
+      "Data Exploration"
+    ]
+  },
+  {
+    "objectID": "stats-data-exploration.html#guided-notes",
+    "href": "stats-data-exploration.html#guided-notes",
+    "title": "Data Exploration",
+    "section": "Guided Notes",
+    "text": "Guided Notes\nFILE: data-exploration-STARTER.docx",
+    "crumbs": [
+      "Statistics",
+      "Data Exploration"
+    ]
+  },
+  {
+    "objectID": "stats-data-exploration.html#activity",
+    "href": "stats-data-exploration.html#activity",
+    "title": "Data Exploration",
+    "section": "Activity",
+    "text": "Activity\nFILE: correlation-and-regression-STARTER.xlsx, includes directions.\nInstructors can contact me for keys :)",
+    "crumbs": [
+      "Statistics",
+      "Data Exploration"
+    ]
+  },
+  {
+    "objectID": "stats-project.html",
+    "href": "stats-project.html",
     "title": "Data Analysis Project",
-    "section": "Excel Lesson",
+    "section": "",
     "text": "Excel Lesson\nBefore students work on the statistics project, they are lead through an in class Excel activity.\nFILES: excel-lesson-STARTER.xlsx and excel-lesson-COMPLETED.xlsx",
     "crumbs": [
       "Statistics",
@@ -428,10 +678,10 @@
     ]
   },
   {
-    "objectID": "stats-review.html#activity",
-    "href": "stats-review.html#activity",
+    "objectID": "stats-review.html",
+    "href": "stats-review.html",
     "title": "Review",
-    "section": "Activity",
+    "section": "",
     "text": "Activity\nFILE: stats-review.docx",
     "crumbs": [
       "Statistics",
@@ -458,190 +708,6 @@
     "crumbs": [
       "Statistics",
       "Review"
-    ]
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "MATH 125 –Quantitative Reasoning",
-    "section": "",
-    "text": "Overview",
-    "crumbs": [
-      "Overview"
-    ]
-  },
-  {
-    "objectID": "index.html#overview-1",
-    "href": "index.html#overview-1",
-    "title": "MATH 125 –Quantitative Reasoning",
-    "section": "Overview",
-    "text": "Overview\n\nBelow is the course calendar. NOTE this calendar is for the FA-23 semester.\nFILE: math125-course-calendar-fa23.docx",
-    "crumbs": [
-      "Overview"
-    ]
-  },
-  {
-    "objectID": "index.html#source",
-    "href": "index.html#source",
-    "title": "MATH 125 –Quantitative Reasoning",
-    "section": "Source",
-    "text": "Source\n\n\n\n\n\n\nQuarto blog publish details\n\n\n\nThis book was created using Quarto and published with Github Pages.\n\n\n\n\n\n\n\n\nGithub repository for code\n\n\n\nYou can find the code to reproduce this project at coltongearhart/math125.",
-    "crumbs": [
-      "Overview"
-    ]
-  },
-  {
-    "objectID": "stats-normal-distribution.html#activity",
-    "href": "stats-normal-distribution.html#activity",
-    "title": "Normal Distribution",
-    "section": "Activity",
-    "text": "Activity\nFILE: normal-distributions.docx\nInstructors can contact me for keys :)",
-    "crumbs": [
-      "Statistics",
-      "Normal Distribution"
-    ]
-  },
-  {
-    "objectID": "finance-understanding-personal-finance.html#activity",
-    "href": "finance-understanding-personal-finance.html#activity",
-    "title": "Understanding Personal Finance",
-    "section": "Activity",
-    "text": "Activity\nFILE: exploring-the-cost-of-living.docx\nInstructors can contact me for keys :)",
-    "crumbs": [
-      "Personal Finance",
-      "Understanding Personal Finance"
-    ]
-  },
-  {
-    "objectID": "finance-understanding-interest.html#activity",
-    "href": "finance-understanding-interest.html#activity",
-    "title": "Understanding Interest",
-    "section": "Activity",
-    "text": "Activity\nInstructors can contact me for keys :)",
-    "crumbs": [
-      "Personal Finance",
-      "Understanding Interest"
-    ]
-  },
-  {
-    "objectID": "finance-saving-money.html#activity",
-    "href": "finance-saving-money.html#activity",
-    "title": "Saving Money",
-    "section": "Activity",
-    "text": "Activity\nFILE: comparing-investment-options.docx\nInstructors can contact me for keys :)",
-    "crumbs": [
-      "Personal Finance",
-      "Saving Money"
-    ]
-  },
-  {
-    "objectID": "finance-borrowing-money.html#activities",
-    "href": "finance-borrowing-money.html#activities",
-    "title": "Borrowing Money",
-    "section": "Activities",
-    "text": "Activities\nFILE: car-loans.docx\nInstructors can contact me for keys :)",
-    "crumbs": [
-      "Personal Finance",
-      "Borrowing Money"
-    ]
-  },
-  {
-    "objectID": "prob-intro-to-probability.html#activity",
-    "href": "prob-intro-to-probability.html#activity",
-    "title": "Introduction to Probability",
-    "section": "Activity",
-    "text": "Activity\nFILE: theoretical-and-empirical-probabilities.docx\nInstructors can contact me for keys :)",
-    "crumbs": [
-      "Probability",
-      "Introduction to Probability"
-    ]
-  },
-  {
-    "objectID": "prob-counting-to-probabilities.html#activity",
-    "href": "prob-counting-to-probabilities.html#activity",
-    "title": "Counting Our Way to Probabilities",
-    "section": "Activity",
-    "text": "Activity\nFILE: passwords.docx\nInstructors can contact me for keys :)",
-    "crumbs": [
-      "Probability",
-      "Counting Our Way to Probabilities"
-    ]
-  },
-  {
-    "objectID": "prob-using-counting-methods-to-find-probabilities.html#activity",
-    "href": "prob-using-counting-methods-to-find-probabilities.html#activity",
-    "title": "Using Counting Methods to find Probabilities",
-    "section": "Activity",
-    "text": "Activity\nFILE: counting-methods-and-probability.docx\nInstructors can contact me for keys :)",
-    "crumbs": [
-      "Probability",
-      "Using Counting Methods to find Probabilities"
-    ]
-  },
-  {
-    "objectID": "prob-addition-and-multiplication-rules.html#activity",
-    "href": "prob-addition-and-multiplication-rules.html#activity",
-    "title": "Addition and Multiplication Rules",
-    "section": "Activity",
-    "text": "Activity\nFILE: m-and-m-probabilities.docx\nInstructors can contact me for keys :)",
-    "crumbs": [
-      "Probability",
-      "Addition and Multiplication Rules"
-    ]
-  },
-  {
-    "objectID": "prob-expected-value.html#activity",
-    "href": "prob-expected-value.html#activity",
-    "title": "Expected Value",
-    "section": "Activity",
-    "text": "Activity\nInstructors can contact me for keys :)",
-    "crumbs": [
-      "Probability",
-      "Expected Value"
-    ]
-  },
-  {
-    "objectID": "stats-collecting-data.html#activity",
-    "href": "stats-collecting-data.html#activity",
-    "title": "Collecting Data",
-    "section": "Activity",
-    "text": "Activity\nFILE: collecting-data.docx\nInstructors can contact me for keys :)",
-    "crumbs": [
-      "Statistics",
-      "Collecting Data"
-    ]
-  },
-  {
-    "objectID": "stats-displaying-data.html#activity",
-    "href": "stats-displaying-data.html#activity",
-    "title": "Displaying Data",
-    "section": "Activity",
-    "text": "Activity\nFILE: deceptions-in-visual-displays-of-data.docx\nInstructors can contact me for keys :)",
-    "crumbs": [
-      "Statistics",
-      "Displaying Data"
-    ]
-  },
-  {
-    "objectID": "stats-describing-and-analyzing-data.html#activity",
-    "href": "stats-describing-and-analyzing-data.html#activity",
-    "title": "Describing and Analzying Data",
-    "section": "Activity",
-    "text": "Activity\nFILE: averages-and-outliers.docx\nInstructors can contact me for keys :)",
-    "crumbs": [
-      "Statistics",
-      "Describing and Analzying Data"
-    ]
-  },
-  {
-    "objectID": "stats-linear-regression.html#activity",
-    "href": "stats-linear-regression.html#activity",
-    "title": "Linear Regression",
-    "section": "Activity",
-    "text": "Activity\nFILE: correlation-and-regression-STARTER.xlsx, includes directions.\nInstructors can contact me for keys :)",
-    "crumbs": [
-      "Statistics",
-      "Linear Regression"
     ]
   }
 ]

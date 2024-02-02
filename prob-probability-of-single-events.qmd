@@ -1,0 +1,21 @@
+# Probability of Single Events {.unnumbered}
+
+## Slides
+
+FILE: [probability-of-single-events.pptx](https://github.com/coltongearhart/math125/blob/main/probability/probability-of-single-events.pptx)
+
+<embed src="probability/probability-of-single-events.pdf" type="application/pdf" width="100%" height="500px"></embed>
+
+## Guided Notes
+
+FILE: [probability-of-single-events-STARTER.docx](https://github.com/coltongearhart/math125/blob/main/probability/probability-of-single-events-STARTER.docx)
+
+<embed src="probability/probability-of-single-events-COMPLETED.pdf" type="application/pdf" width="100%" height="1000px"></embed>
+
+## Activity
+
+FILE: [counting-methods-and-probability.docx](https://github.com/coltongearhart/math125/blob/main/probability/activities/counting-methods-and-probability.docx)
+
+Instructors can contact me for keys :)
+
+<embed src="probability/activities/counting-methods-and-probability.pdf" type="application/pdf" width="100%" height="1000px"></embed>

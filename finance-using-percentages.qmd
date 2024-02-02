@@ -1,0 +1,19 @@
+# Using Percentages {.unnumbered}
+
+## Slides
+
+FILE: [using-percentages.pptx](https://github.com/coltongearhart/math125/blob/main/finance/using-percentages.pptx)
+
+<embed src="finance/using-percentages.pdf" type="application/pdf" width="100%" height="500px"></embed>
+
+## Guided Notes
+
+FILE: [using-percentages-STARTER.docx](https://github.com/coltongearhart/math125/blob/main/finance/using-percentages-STARTER.docx)
+
+<embed src="finance/using-percentages-COMPLETED.pdf" type="application/pdf" width="100%" height="1000px"></embed>
+
+## Activity
+
+Instructors can contact me for keys :)
+
+<embed src="finance/activities/coupons-discounts-and-sales-tax.pdf" type="application/pdf" width="100%" height="1000px"></embed>

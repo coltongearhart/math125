@@ -1,0 +1,21 @@
+# Counting Outcomes {.unnumbered}
+
+## Slides
+
+FILE: [counting-outcomes.pptx](https://github.com/coltongearhart/math125/blob/main/probability/counting-outcomes.pptx)
+
+<embed src="probability/counting-outcomes.pdf" type="application/pdf" width="100%" height="500px"></embed>
+
+## Guided Notes
+
+FILE: [counting-outcomes-STARTER.docx](https://github.com/coltongearhart/math125/blob/main/probability/counting-outcomes-STARTER.docx)
+
+<embed src="probability/counting-outcomes-COMPLETED.pdf" type="application/pdf" width="100%" height="1000px"></embed>
+
+## Activity
+
+FILE: [passwords.docx](https://github.com/coltongearhart/math125/blob/main/probability/activities/passwords.docx)
+
+Instructors can contact me for keys :)
+
+<embed src="probability/activities/passwords.pdf" type="application/pdf" width="100%" height="1000px"></embed>

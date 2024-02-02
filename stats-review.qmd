@@ -2,13 +2,13 @@
 
 ## Activity
 
-FILE: [stats-review.docx](https://github.com/coltongearhart/math125/blob/main/stats/stats-review.docx)
+FILE: [stats-review.docx](https://github.com/coltongearhart/math125/blob/main/stats/activities/stats-review.docx)
 
-<embed src="stats/stats-review.pdf" type="application/pdf" width="100%" height="1000px"></embed>
+<embed src="stats/activities/stats-review.pdf" type="application/pdf" width="100%" height="1000px"></embed>
 
 ## KEY
 
-<embed src="stats/stats-review-COMPLETED.pdf" type="application/pdf" width="100%" height="1000px"></embed>
+<embed src="stats/activities/stats-review-KEY.pdf" type="application/pdf" width="100%" height="1000px"></embed>
 
 ## Study Formula Sheet
 

@@ -5,7 +5,7 @@ project:
 book:
   title: "MATH 125 --<br>Quantitative Reasoning"
   author: "Colton Gearhart"
-  date: "11-1-2023"
+  date: "2-2-2024"
   cover-image: quantitative-reasoning.png
   chapters:
     - index.qmd
@@ -13,28 +13,30 @@ book:
 
     - part: chapter-finance.qmd
       chapters:
-        - finance-understanding-personal-finance.qmd
+        - finance-using-percentages.qmd
         - finance-understanding-interest.qmd
-        - finance-saving-money.qmd
+        - finance-saving-and-investing.qmd
         - finance-borrowing-money.qmd
+        - finance-budgeting.qmd
         - finance-review.qmd
 
     - part: chapter-prob.qmd
       chapters:
         - prob-intro-to-probability.qmd
-        - prob-counting-to-probabilities.qmd
-        - prob-using-counting-methods-to-find-probabilities.qmd
+        - prob-counting-outcomes.qmd
+        - prob-probability-of-single-events.qmd
         - prob-addition-and-multiplication-rules.qmd
         - prob-expected-value.qmd
         - prob-review.qmd
 
     - part: chapter-stats.qmd
       chapters:
-        - stats-collecting-data.qmd
+        - stats-statistical-studies.qmd
         - stats-displaying-data.qmd
         - stats-describing-and-analyzing-data.qmd
-        - stats-normal-distribution.qmd
-        - stats-linear-regression.qmd
+        - stats-the-normal-distribution.qmd
+        - stats-confidence-intervals.qmd
+        - stats-data-exploration.qmd
         - stats-project.qmd
         - stats-review.qmd
 

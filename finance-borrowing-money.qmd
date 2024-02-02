@@ -19,5 +19,3 @@ FILE: [car-loans.docx](https://github.com/coltongearhart/math125/blob/main/finan
 Instructors can contact me for keys :)
 
 <embed src="finance/activities/car-loans.pdf" type="application/pdf" width="100%" height="1000px"></embed>
-
-<embed src="finance/activities/paying-it-back.pdf" type="application/pdf" width="100%" height="1000px"></embed>

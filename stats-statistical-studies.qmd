@@ -1,0 +1,21 @@
+# Statistical Studies {.unnumbered}
+
+## Slides
+
+FILE: [statistical-studies.pptx](https://github.com/coltongearhart/math125/blob/main/stats/statistical-studies.pptx)
+
+<embed src="stats/statistical-studies.pdf" type="application/pdf" width="100%" height="500px"></embed>
+
+## Guided Notes
+
+FILE: [statistical-studies-STARTER.docx](https://github.com/coltongearhart/math125/blob/main/stats/statistical-studies-STARTER.docx) and [statistical-studies-COMPLETED.docx](https://github.com/coltongearhart/math125/blob/main/stats/statistical-studies-COMPLETED.docx) 
+
+<embed src="stats/statistical-studies-COMPLETED.pdf" type="application/pdf" width="100%" height="1000px"></embed>
+
+## Activity
+
+FILE: [collecting-data.docx](https://github.com/coltongearhart/math125/blob/main/stats/activities/collecting-data.docx)
+
+Instructors can contact me for keys :)
+
+<embed src="stats/activities/collecting-data.pdf" type="application/pdf" width="100%" height="1000px"></embed>

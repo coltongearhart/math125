@@ -1,0 +1,21 @@
+# Data Exploration {.unnumbered}
+
+## Slides
+
+FILE: [data-exploration.pptx](https://github.com/coltongearhart/math125/blob/main/stats/data-exploration.pptx)
+
+<embed src="stats/data-exploration.pdf" type="application/pdf" width="100%" height="500px"></embed>
+
+## Guided Notes
+
+FILE: [data-exploration-STARTER.docx](https://github.com/coltongearhart/math125/blob/main/stats/data-exploration-STARTER.docx)
+
+<embed src="stats/data-exploration-COMPLETED.pdf" type="application/pdf" width="100%" height="1000px"></embed>
+
+<embed src="stats/table-correlation-critical-values.pdf" type="application/pdf" width="100%" height="500px"></embed>
+
+## Activity
+
+FILE: [correlation-and-regression-STARTER.xlsx](https://github.com/coltongearhart/math125/blob/main/stats/activities/correlation-and-regression-STARTER.xlsx), includes directions.
+
+Instructors can contact me for keys :)

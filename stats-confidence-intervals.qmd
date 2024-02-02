@@ -1,0 +1,20 @@
+# Confidence Intervals {.unnumbered}
+
+## Slides
+
+FILE: [confidence-intervals.pptx](https://github.com/coltongearhart/math125/blob/main/stats/confidence-intervals.pptx)
+
+<embed src="stats/confidence-intervals.pdf" type="application/pdf" width="100%" height="500px"></embed>
+
+## Guided Notes
+
+FILE: [confidence-intervals-STARTER.docx](https://github.com/coltongearhart/math125/blob/main/stats/confidence-intervals-STARTER.docx)
+
+<embed src="stats/confidence-intervals-COMPLETED.pdf" type="application/pdf" width="100%" height="1000px"></embed>
+
+## Activity
+
+Instructors can contact me for keys :)
+
+<embed src="stats/activities/confidence-intervals.pdf" type="application/pdf" width="100%" height="1000px"></embed>
+

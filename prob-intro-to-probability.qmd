@@ -14,8 +14,8 @@ FILE: [intro-to-probability-STARTER.docx](https://github.com/coltongearhart/math
 
 ## Activity
 
-FILE: [theoretical-and-empirical-probabilities.docx](https://github.com/coltongearhart/math125/blob/main/probability/activities/theoretical-and-empirical-probabilities.docx)
+FILE: [theoretical-and-empirical-probability.docx](https://github.com/coltongearhart/math125/blob/main/probability/activities/theoretical-and-empirical-probability.docx)
 
 Instructors can contact me for keys :)
 
-<embed src="probability/activities/theoretical-and-empirical-probabilities.pdf" type="application/pdf" width="100%" height="1000px"></embed>
+<embed src="probability/activities/theoretical-and-empirical-probability.pdf" type="application/pdf" width="100%" height="1000px"></embed>
