@@ -1,0 +1,5 @@
+# Meet Your Instructor {.unnumbered}
+
+Check out the slides below to find out a little more about me!
+
+<embed src="intro/meet-your-instructor.pdf" type="application/pdf" width="100%" height="500px"></embed>

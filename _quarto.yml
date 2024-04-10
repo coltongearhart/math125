@@ -9,7 +9,12 @@ book:
   cover-image: quantitative-reasoning.png
   chapters:
     - index.qmd
-    - syllabus.qmd
+
+    - part: chapter-intro.qmd
+      chapters:
+        - intro-meet-your-instructor.qmd
+        - intro-syllabus.qmd
+        - intro-week-1.qmd
 
     - part: chapter-finance.qmd
       chapters:
