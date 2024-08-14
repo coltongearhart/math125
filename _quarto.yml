@@ -41,8 +41,8 @@ book:
         - stats-describing-and-analyzing-data.qmd
         - stats-the-normal-distribution.qmd
         - stats-confidence-intervals.qmd
-        - stats-data-exploration.qmd
         - stats-project.qmd
+        - stats-data-exploration.qmd
         - stats-review.qmd
 
 format:

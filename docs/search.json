@@ -30,13 +30,47 @@
     ]
   },
   {
-    "objectID": "syllabus.html",
-    "href": "syllabus.html",
+    "objectID": "intro-meet-your-instructor.html",
+    "href": "intro-meet-your-instructor.html",
+    "title": "Meet Your Instructor",
+    "section": "",
+    "text": "Check out the slides below to find out a little more about me!",
+    "crumbs": [
+      "Intro",
+      "Meet Your Instructor"
+    ]
+  },
+  {
+    "objectID": "intro-syllabus.html",
+    "href": "intro-syllabus.html",
     "title": "Syllabus",
     "section": "",
     "text": "FILE: math125-syllabus-sp24.docx",
     "crumbs": [
+      "Intro",
       "Syllabus"
+    ]
+  },
+  {
+    "objectID": "intro-week-1.html",
+    "href": "intro-week-1.html",
+    "title": "Week 1",
+    "section": "",
+    "text": "Day 2\nBelow is an activity to get you thinking about math and numbers and a growth mindset activity.\nFILE: day-2-and-3.pptx",
+    "crumbs": [
+      "Intro",
+      "Week 1"
+    ]
+  },
+  {
+    "objectID": "intro-week-1.html#day-3",
+    "href": "intro-week-1.html#day-3",
+    "title": "Week 1",
+    "section": "Day 3",
+    "text": "Day 3\nFILE: hawkes-information.pptx",
+    "crumbs": [
+      "Intro",
+      "Week 1"
     ]
   },
   {
@@ -601,39 +635,6 @@
     ]
   },
   {
-    "objectID": "stats-data-exploration.html",
-    "href": "stats-data-exploration.html",
-    "title": "Data Exploration",
-    "section": "",
-    "text": "Slides\nFILE: data-exploration.pptx",
-    "crumbs": [
-      "Statistics",
-      "Data Exploration"
-    ]
-  },
-  {
-    "objectID": "stats-data-exploration.html#guided-notes",
-    "href": "stats-data-exploration.html#guided-notes",
-    "title": "Data Exploration",
-    "section": "Guided Notes",
-    "text": "Guided Notes\nFILE: data-exploration-STARTER.docx",
-    "crumbs": [
-      "Statistics",
-      "Data Exploration"
-    ]
-  },
-  {
-    "objectID": "stats-data-exploration.html#activity",
-    "href": "stats-data-exploration.html#activity",
-    "title": "Data Exploration",
-    "section": "Activity",
-    "text": "Activity\nFILE: correlation-and-regression-STARTER.xlsx, includes directions.\nInstructors can contact me for keys :)",
-    "crumbs": [
-      "Statistics",
-      "Data Exploration"
-    ]
-  },
-  {
     "objectID": "stats-project.html",
     "href": "stats-project.html",
     "title": "Data Analysis Project",
@@ -678,6 +679,39 @@
     ]
   },
   {
+    "objectID": "stats-data-exploration.html",
+    "href": "stats-data-exploration.html",
+    "title": "Data Exploration",
+    "section": "",
+    "text": "Slides\nFILE: data-exploration.pptx",
+    "crumbs": [
+      "Statistics",
+      "Data Exploration"
+    ]
+  },
+  {
+    "objectID": "stats-data-exploration.html#guided-notes",
+    "href": "stats-data-exploration.html#guided-notes",
+    "title": "Data Exploration",
+    "section": "Guided Notes",
+    "text": "Guided Notes\nFILE: data-exploration-STARTER.docx",
+    "crumbs": [
+      "Statistics",
+      "Data Exploration"
+    ]
+  },
+  {
+    "objectID": "stats-data-exploration.html#activity",
+    "href": "stats-data-exploration.html#activity",
+    "title": "Data Exploration",
+    "section": "Activity",
+    "text": "Activity\nFILE: correlation-and-regression-STARTER.xlsx, includes directions.\nInstructors can contact me for keys :)",
+    "crumbs": [
+      "Statistics",
+      "Data Exploration"
+    ]
+  },
+  {
     "objectID": "stats-review.html",
     "href": "stats-review.html",
     "title": "Review",
@@ -708,50 +742,6 @@
     "crumbs": [
       "Statistics",
       "Review"
-    ]
-  },
-  {
-    "objectID": "intro-week-1.html",
-    "href": "intro-week-1.html",
-    "title": "Week 1",
-    "section": "",
-    "text": "Day 2\nBelow is an activity to get you thinking about math and numbers and a growth mindset activity.\nFILE: day-2-and-3.pptx",
-    "crumbs": [
-      "Intro",
-      "Week 1"
-    ]
-  },
-  {
-    "objectID": "intro-week-1.html#day-3",
-    "href": "intro-week-1.html#day-3",
-    "title": "Week 1",
-    "section": "Day 3",
-    "text": "Day 3\nFILE: hawkes-information.pptx",
-    "crumbs": [
-      "Intro",
-      "Week 1"
-    ]
-  },
-  {
-    "objectID": "intro-meet-your-instructor.html",
-    "href": "intro-meet-your-instructor.html",
-    "title": "Meet Your Instructor",
-    "section": "",
-    "text": "Check out the slides below to find out a little more about me!",
-    "crumbs": [
-      "Intro",
-      "Meet Your Instructor"
-    ]
-  },
-  {
-    "objectID": "intro-syllabus.html",
-    "href": "intro-syllabus.html",
-    "title": "Syllabus",
-    "section": "",
-    "text": "FILE: math125-syllabus-sp24.docx",
-    "crumbs": [
-      "Intro",
-      "Syllabus"
     ]
   }
 ]
